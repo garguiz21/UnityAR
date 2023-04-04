@@ -1,0 +1,14 @@
+<linker>
+	<assembly fullname="Unity.XR.ARSubsystems">
+		<type fullname="UnityEngine.XR.ARSubsystems.SerializableDictionary`2/KeyValuePair[System.String,System.Byte[]]" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.XR.ARSubsystems.SerializableDictionary`2[System.String,System.Byte[]]" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.XR.ARSubsystems.SerializableGuid" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.XR.ARSubsystems.XRReferenceImage" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Unity.XR.OpenXR.Features.MetaQuestSupport">
+		<type fullname="UnityEngine.XR.OpenXR.Features.MetaQuestSupport.MetaQuestFeature/TargetDevice" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule">
+		<type fullname="UnityEngine.Pose" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>
